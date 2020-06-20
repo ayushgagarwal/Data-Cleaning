@@ -1,0 +1,823 @@
+index,Order_ID,Segment,Sales,Ship_Mode
+11979,CA-2011-103366,Consumer,149.95,First Class
+20700,CA-2011-109043,Consumer,243.6,First Class
+29421,CA-2011-113166,Consumer,9.568,First Class
+52299,CA-2011-124023,Consumer,8.96,First Class
+64287,CA-2011-130155,Consumer,34.2,First Class
+77364,CA-2011-136861,Consumer,31.984,First Class
+106776,CA-2011-153927,Consumer,286.65,First Class
+115497,CA-2011-157784,Consumer,514.03,First Class
+120951,CA-2011-160094,Consumer,1000.95,First Class
+129672,CA-2011-164749,Consumer,9.912,First Class
+135126,CA-2011-166730,Consumer,39.128,First Class
+147114,CA-2012-102722,Consumer,106.5,First Class
+147123,CA-2012-102778,Consumer,18.176,First Class
+180891,CA-2012-117828,Consumer,194.32,First Class
+207036,CA-2012-130218,Consumer,59.48,First Class
+208134,CA-2012-132318,Consumer,182.91,First Class
+222300,CA-2012-137974,Consumer,2298.9,First Class
+223398,CA-2012-138625,Consumer,197.72,First Class
+226674,CA-2012-141327,Consumer,440.144,First Class
+241929,CA-2012-149300,Consumer,32.985,First Class
+245205,CA-2012-150560,Consumer,196.62,First Class
+280062,CA-2012-165414,Consumer,47.976,First Class
+295317,CA-2013-102092,Consumer,1056.86,First Class
+296415,CA-2013-102498,Consumer,73.2,First Class
+314937,CA-2013-110492,Consumer,1366.04,First Class
+341082,CA-2013-119515,Consumer,15.552,First Class
+341091,CA-2013-119823,Consumer,75.88,First Class
+351990,CA-2013-124772,Consumer,191.82,First Class
+353088,CA-2013-125843,Consumer,125.92,First Class
+357453,CA-2013-130442,Consumer,34.944,First Class
+366174,CA-2013-133872,Consumer,58.4,First Class
+395586,CA-2013-145247,Consumer,79.14,First Class
+395595,CA-2013-145499,Consumer,3.282,First Class
+401049,CA-2013-147368,Consumer,695.7,First Class
+423927,CA-2013-157280,Consumer,1120.73,First Class
+423936,CA-2013-157364,Consumer,18.48,First Class
+448992,CA-2013-164784,Consumer,377.346,First Class
+478404,CA-2014-103212,Consumer,1541.51,First Class
+482769,CA-2014-105620,Consumer,141,First Class
+489312,CA-2014-108287,Consumer,12.672,First Class
+491499,CA-2014-109589,Consumer,71,First Class
+491508,CA-2014-110198,Consumer,318.96,First Class
+494784,CA-2014-112774,Consumer,34.504,First Class
+502416,CA-2014-115448,Consumer,88.92,First Class
+517671,CA-2014-121314,Consumer,251.64,First Class
+519858,CA-2014-121818,Consumer,52.696,First Class
+520956,CA-2014-122154,Consumer,284.19,First Class
+524232,CA-2014-122994,Consumer,359.97,First Class
+532953,CA-2014-125472,Consumer,253.86,First Class
+538407,CA-2014-126774,Consumer,4.89,First Class
+563463,CA-2014-133235,Consumer,271.96,First Class
+575451,CA-2014-138779,Consumer,29.664,First Class
+590706,CA-2014-143756,Consumer,701.96,First Class
+622296,CA-2014-151218,Consumer,4.464,First Class
+638640,CA-2014-156769,Consumer,54.66,First Class
+644094,CA-2014-158729,Consumer,1665.62,First Class
+646281,CA-2014-158967,Consumer,19.104,First Class
+658269,CA-2014-161053,Consumer,726.91,First Class
+666990,CA-2014-162635,Consumer,10.816,First Class
+668088,CA-2014-163335,Consumer,79,First Class
+694233,US-2011-130358,Consumer,23.12,First Class
+710577,US-2012-106495,Consumer,11.672,First Class
+734544,US-2013-106600,Consumer,354.9,First Class
+737820,US-2013-113649,Consumer,645.136,First Class
+737829,US-2013-116400,Consumer,39.92,First Class
+737838,US-2013-119298,Consumer,59.98,First Class
+741114,US-2013-131891,Consumer,2.214,First Class
+765081,US-2013-162677,Consumer,187.616,First Class
+767268,US-2013-167472,Consumer,678.87,First Class
+772722,US-2014-108063,Consumer,34.65,First Class
+789066,US-2014-133781,Consumer,37.608,First Class
+797787,US-2014-148831,Consumer,348.56,First Class
+819576,CA-2011-113047,Consumer,11.85,Same Day
+820674,CA-2011-116239,Consumer,354.9,Same Day
+822861,CA-2011-130428,Consumer,1142.165,Same Day
+822870,CA-2011-131541,Consumer,193.152,Same Day
+823968,CA-2011-142951,Consumer,23.472,Same Day
+823977,CA-2011-152254,Consumer,310.688,Same Day
+832698,CA-2012-117884,Consumer,598.352,Same Day
+834885,CA-2012-136224,Consumer,10.272,Same Day
+840339,CA-2012-155068,Consumer,78.456,Same Day
+841437,CA-2013-101378,Consumer,29,Same Day
+843624,CA-2013-105256,Consumer,1363.96,Same Day
+843633,CA-2013-106894,Consumer,107.83,Same Day
+849087,CA-2013-127698,Consumer,863.928,Same Day
+851274,CA-2013-143308,Consumer,10.74,Same Day
+851283,CA-2013-144344,Consumer,314.393,Same Day
+854559,CA-2013-152163,Consumer,85.5,Same Day
+854568,CA-2013-152471,Consumer,839.944,Same Day
+856755,CA-2013-159653,Consumer,14.73,Same Day
+857853,CA-2014-103065,Consumer,59.824,Same Day
+868752,CA-2014-122987,Consumer,80.564,Same Day
+875295,CA-2014-144498,Consumer,817.829,Same Day
+878571,CA-2014-158883,Consumer,25.344,Same Day
+882936,US-2011-114377,Consumer,149.9,Same Day
+890568,US-2013-134761,Consumer,36.192,Same Day
+890577,US-2013-148803,Consumer,85.224,Same Day
+890586,US-2013-156692,Consumer,89.32,Same Day
+893862,US-2014-120607,Consumer,195.64,Same Day
+896049,US-2014-152492,Consumer,239.24,Same Day
+896058,CA-2011-100706,Consumer,129.44,Second Class
+896067,CA-2011-101266,Consumer,13.36,Second Class
+896076,CA-2011-109232,Consumer,545.94,Second Class
+896085,CA-2011-110422,Consumer,25.248,Second Class
+896094,CA-2011-115357,Consumer,62.91,Second Class
+896103,CA-2011-120768,Consumer,1979.89,Second Class
+896112,CA-2011-123925,Consumer,40.05,Second Class
+896121,CA-2011-124618,Consumer,479.984,Second Class
+896130,CA-2011-127488,Consumer,4.608,Second Class
+896139,CA-2011-130918,Consumer,7.632,Second Class
+896148,CA-2011-132612,Consumer,1441.3,Second Class
+896157,CA-2011-142727,Consumer,69.9,Second Class
+896166,CA-2011-145576,Consumer,26.128,Second Class
+896175,CA-2011-154158,Consumer,619.848,Second Class
+896184,CA-2011-155852,Consumer,19.456,Second Class
+896193,CA-2011-156006,Consumer,47.79,Second Class
+896202,CA-2011-156790,Consumer,155.456,Second Class
+896211,CA-2011-158470,Consumer,129.33,Second Class
+896220,CA-2011-166457,Consumer,40.54,Second Class
+896229,CA-2011-169775,Consumer,709.0425,Second Class
+896238,CA-2012-109386,Consumer,750.93,Second Class
+896247,CA-2012-110345,Consumer,4.608,Second Class
+896256,CA-2012-116638,Consumer,4297.644,Second Class
+896265,CA-2012-128027,Consumer,269.49,Second Class
+896274,CA-2012-134257,Consumer,498.93,Second Class
+896283,CA-2012-150749,Consumer,5.56,Second Class
+896292,CA-2012-153325,Consumer,58.72,Second Class
+896301,CA-2012-153752,Consumer,173.94,Second Class
+896310,CA-2012-155600,Consumer,1635.018,Second Class
+896319,CA-2012-169733,Consumer,9.952,Second Class
+896328,CA-2013-101525,Consumer,140.52,Second Class
+896337,CA-2013-109722,Consumer,1284.8,Second Class
+896346,CA-2013-113292,Consumer,871.8,Second Class
+896355,CA-2013-116918,Consumer,36.364,Second Class
+896364,CA-2013-120873,Consumer,290.98,Second Class
+896373,CA-2013-123176,Consumer,31.83,Second Class
+896382,CA-2013-131065,Consumer,513.52,Second Class
+896391,CA-2013-136231,Consumer,228.586,Second Class
+896400,CA-2013-137043,Consumer,859.14,Second Class
+896409,CA-2013-140543,Consumer,191.88,Second Class
+896418,CA-2013-141180,Consumer,7.764,Second Class
+896427,CA-2013-149783,Consumer,131.104,Second Class
+896436,CA-2013-149979,Consumer,487.22,Second Class
+896445,CA-2013-152156,Consumer,993.9,Second Class
+896454,CA-2013-154690,Consumer,225.296,Second Class
+896463,CA-2013-155670,Consumer,21.504,Second Class
+896472,CA-2013-158841,Consumer,8805.04,Second Class
+896481,CA-2013-159765,Consumer,27.86,Second Class
+896490,CA-2013-162355,Consumer,1302.83,Second Class
+896499,CA-2013-164735,Consumer,81.2,Second Class
+896508,CA-2013-168753,Consumer,1002.7,Second Class
+896517,CA-2013-168893,Consumer,903.77,Second Class
+896526,CA-2013-169334,Consumer,111.672,Second Class
+896535,CA-2014-101210,Consumer,13.152,Second Class
+896544,CA-2014-101273,Consumer,14.336,Second Class
+896553,CA-2014-101483,Consumer,61.216,Second Class
+896562,CA-2014-102309,Consumer,212.91,Second Class
+896571,CA-2014-107209,Consumer,194.848,Second Class
+896580,CA-2014-107461,Consumer,23.88,Second Class
+896589,CA-2014-113705,Consumer,874.8,Second Class
+896598,CA-2014-123239,Consumer,91.032,Second Class
+896607,CA-2014-127726,Consumer,209.88,Second Class
+896616,CA-2014-128629,Consumer,18.84,Second Class
+896625,CA-2014-128699,Consumer,47.992,Second Class
+896634,CA-2014-129021,Consumer,4590.344,Second Class
+896643,CA-2014-129462,Consumer,740.59,Second Class
+896652,CA-2014-130834,Consumer,16.272,Second Class
+896661,CA-2014-139353,Consumer,273.088,Second Class
+896670,CA-2014-140088,Consumer,301.96,Second Class
+896679,CA-2014-144694,Consumer,253.824,Second Class
+896688,CA-2014-145310,Consumer,7.824,Second Class
+896697,CA-2014-146458,Consumer,22.96,Second Class
+896706,CA-2014-155159,Consumer,48.87,Second Class
+896715,CA-2014-155705,Consumer,866.4,Second Class
+896724,CA-2014-160458,Consumer,25.92,Second Class
+896733,CA-2014-161200,Consumer,161.14,Second Class
+896742,CA-2014-163321,Consumer,79.992,Second Class
+896751,CA-2014-163510,Consumer,400.39,Second Class
+896760,CA-2014-165204,Consumer,728.968,Second Class
+896769,CA-2014-167941,Consumer,831.368,Second Class
+896778,US-2011-102715,Consumer,737.2,Second Class
+896787,US-2011-117135,Consumer,425.67,Second Class
+896796,US-2012-136749,Consumer,433.78,Second Class
+896805,US-2012-151435,Consumer,85.98,Second Class
+896814,US-2013-120929,Consumer,189.882,Second Class
+896823,US-2013-142251,Consumer,32.064,Second Class
+896832,US-2014-135062,Consumer,229.544,Second Class
+896841,US-2014-153633,Consumer,2.064,Second Class
+896850,US-2014-158526,Consumer,1814.68,Second Class
+896859,US-2014-163195,Consumer,29.16,Second Class
+896868,US-2014-167920,Consumer,1827.51,Second Class
+896877,CA-2011-100895,Consumer,605.47,Standard Class
+896886,CA-2011-104283,Consumer,616.14,Standard Class
+896895,CA-2011-107573,Consumer,23.472,Standard Class
+896904,CA-2011-110100,Consumer,302.376,Standard Class
+896913,CA-2011-114335,Consumer,337.088,Standard Class
+896922,CA-2011-116190,Consumer,256.48,Standard Class
+896931,CA-2011-116407,Consumer,362.176,Standard Class
+896940,CA-2011-116568,Consumer,186.304,Standard Class
+896949,CA-2011-117016,Consumer,15.552,Standard Class
+896958,CA-2011-120950,Consumer,43.68,Standard Class
+896967,CA-2011-123400,Consumer,199.296,Standard Class
+896976,CA-2011-127299,Consumer,2692.329,Standard Class
+896985,CA-2011-127614,Consumer,1508.13,Standard Class
+896994,CA-2011-128839,Consumer,254.97,Standard Class
+897003,CA-2011-131527,Consumer,95.968,Standard Class
+897012,CA-2011-134551,Consumer,732.312,Standard Class
+897021,CA-2011-138296,Consumer,24.56,Standard Class
+897030,CA-2011-138709,Consumer,37.44,Standard Class
+897039,CA-2011-140886,Consumer,69.216,Standard Class
+897048,CA-2011-143182,Consumer,15.384,Standard Class
+897057,CA-2011-143840,Consumer,180.93,Standard Class
+897066,CA-2011-146731,Consumer,147.344,Standard Class
+897075,CA-2011-149958,Consumer,370.782,Standard Class
+897084,CA-2011-152268,Consumer,1793.98,Standard Class
+897093,CA-2011-155390,Consumer,42.208,Standard Class
+897102,CA-2011-159184,Consumer,149.56,Standard Class
+897111,CA-2011-159681,Consumer,105.52,Standard Class
+897120,CA-2011-161634,Consumer,32.4,Standard Class
+897129,CA-2011-163013,Consumer,14.67,Standard Class
+897138,CA-2011-164315,Consumer,1220.67,Standard Class
+897147,CA-2011-165764,Consumer,1395.673,Standard Class
+897156,CA-2011-166051,Consumer,773.7,Standard Class
+897165,CA-2011-169257,Consumer,63.381,Standard Class
+897174,CA-2012-100888,Consumer,47.952,Standard Class
+897183,CA-2012-101868,Consumer,175.32,Standard Class
+897192,CA-2012-102491,Consumer,3747.93,Standard Class
+897201,CA-2012-102582,Consumer,1918.79,Standard Class
+897210,CA-2012-103093,Consumer,74.52,Standard Class
+897219,CA-2012-104115,Consumer,55.984,Standard Class
+897228,CA-2012-107678,Consumer,893.09,Standard Class
+897237,CA-2012-108119,Consumer,301.96,Standard Class
+897246,CA-2012-110247,Consumer,8.226,Standard Class
+897255,CA-2012-111199,Consumer,115.296,Standard Class
+897264,CA-2012-111703,Consumer,27.504,Standard Class
+897273,CA-2012-112375,Consumer,78.192,Standard Class
+897282,CA-2012-114300,Consumer,371.66,Standard Class
+897291,CA-2012-114503,Consumer,84.96,Standard Class
+897300,CA-2012-115938,Consumer,535.36,Standard Class
+897309,CA-2012-118444,Consumer,387.136,Standard Class
+897318,CA-2012-118843,Consumer,199.86,Standard Class
+897327,CA-2012-119480,Consumer,364.07,Standard Class
+897336,CA-2012-119634,Consumer,46.152,Standard Class
+897345,CA-2012-120516,Consumer,5.64,Standard Class
+897354,CA-2012-120621,Consumer,1270.379,Standard Class
+897363,CA-2012-122266,Consumer,194.1395,Standard Class
+897372,CA-2012-123092,Consumer,288.85,Standard Class
+897381,CA-2012-123330,Consumer,107.976,Standard Class
+897390,CA-2012-125563,Consumer,121.888,Standard Class
+897399,CA-2012-125976,Consumer,2026.78,Standard Class
+897408,CA-2012-128139,Consumer,365.91,Standard Class
+897417,CA-2012-129098,Consumer,30.84,Standard Class
+897426,CA-2012-133242,Consumer,1046.47,Standard Class
+897435,CA-2012-134719,Consumer,1801.632,Standard Class
+897444,CA-2012-134782,Consumer,105.42,Standard Class
+897453,CA-2012-134894,Consumer,436.86,Standard Class
+897462,CA-2012-136147,Consumer,233.064,Standard Class
+897471,CA-2012-138457,Consumer,13.092,Standard Class
+897480,CA-2012-141145,Consumer,87.168,Standard Class
+897489,CA-2012-141565,Consumer,1664.132,Standard Class
+897498,CA-2012-142755,Consumer,919.49,Standard Class
+897507,CA-2012-143119,Consumer,517.5,Standard Class
+897516,CA-2012-143532,Consumer,14.496,Standard Class
+897525,CA-2012-144288,Consumer,19.584,Standard Class
+897534,CA-2012-145352,Consumer,6412.77,Standard Class
+897543,CA-2012-147879,Consumer,45.68,Standard Class
+897552,CA-2012-148705,Consumer,5.04,Standard Class
+897561,CA-2012-151547,Consumer,88.96,Standard Class
+897570,CA-2012-153535,Consumer,169.544,Standard Class
+897579,CA-2012-153626,Consumer,5.16,Standard Class
+897588,CA-2012-155635,Consumer,48.81,Standard Class
+897597,CA-2012-156328,Consumer,177.48,Standard Class
+897606,CA-2012-158148,Consumer,36.27,Standard Class
+897615,CA-2012-158421,Consumer,3631.96,Standard Class
+897624,CA-2012-162537,Consumer,104.51,Standard Class
+897633,CA-2012-162761,Consumer,50.462,Standard Class
+897642,CA-2012-163965,Consumer,377.902,Standard Class
+897651,CA-2012-165624,Consumer,1142.43,Standard Class
+897660,CA-2012-167696,Consumer,31.12,Standard Class
+897669,CA-2012-168459,Consumer,58.05,Standard Class
+897678,CA-2012-169740,Consumer,29.99,Standard Class
+897687,CA-2013-101469,Consumer,7.7,Standard Class
+897696,CA-2013-102162,Consumer,1611.01,Standard Class
+897705,CA-2013-104157,Consumer,2503.47,Standard Class
+897714,CA-2013-104276,Consumer,447.783,Standard Class
+897723,CA-2013-106950,Consumer,1854.241,Standard Class
+897732,CA-2013-108105,Consumer,323.88,Standard Class
+897741,CA-2013-108567,Consumer,2.694,Standard Class
+897750,CA-2013-108616,Consumer,298.83,Standard Class
+897759,CA-2013-111409,Consumer,3,Standard Class
+897768,CA-2013-111605,Consumer,2.61,Standard Class
+897777,CA-2013-112102,Consumer,448.81,Standard Class
+897786,CA-2013-113733,Consumer,334.256,Standard Class
+897795,CA-2013-113747,Consumer,185.88,Standard Class
+897804,CA-2013-116232,Consumer,24.066,Standard Class
+897813,CA-2013-117604,Consumer,239.5,Standard Class
+897822,CA-2013-118514,Consumer,866.4,Standard Class
+897831,CA-2013-118626,Consumer,705.544,Standard Class
+897840,CA-2013-121958,Consumer,52.136,Standard Class
+897849,CA-2013-131205,Consumer,291.74,Standard Class
+897858,CA-2013-132549,Consumer,73.36,Standard Class
+897867,CA-2013-133123,Consumer,99.156,Standard Class
+897876,CA-2013-133368,Consumer,405.344,Standard Class
+897885,CA-2013-134208,Consumer,396,Standard Class
+897894,CA-2013-135636,Consumer,387.72,Standard Class
+897903,CA-2013-136483,Consumer,4.704,Standard Class
+897912,CA-2013-137736,Consumer,41.86,Standard Class
+897921,CA-2013-139381,Consumer,233.48,Standard Class
+897930,CA-2013-140641,Consumer,38.19,Standard Class
+897939,CA-2013-142370,Consumer,254.99,Standard Class
+897948,CA-2013-142895,Consumer,370.184,Standard Class
+897957,CA-2013-145905,Consumer,1264.14,Standard Class
+897966,CA-2013-146143,Consumer,133.38,Standard Class
+897975,CA-2013-146150,Consumer,264.18,Standard Class
+897984,CA-2013-148684,Consumer,870.04,Standard Class
+897993,CA-2013-150000,Consumer,17.92,Standard Class
+898002,CA-2013-154060,Consumer,187.056,Standard Class
+898011,CA-2013-155138,Consumer,99.872,Standard Class
+898020,CA-2013-156503,Consumer,305.248,Standard Class
+898029,CA-2013-156573,Consumer,60.485,Standard Class
+898038,CA-2013-157245,Consumer,641.96,Standard Class
+898047,CA-2013-157588,Consumer,88.15,Standard Class
+898056,CA-2013-159989,Consumer,40.68,Standard Class
+898065,CA-2013-160234,Consumer,135.95,Standard Class
+898074,CA-2013-160486,Consumer,72.224,Standard Class
+898083,CA-2013-163174,Consumer,186.54,Standard Class
+898092,CA-2013-163776,Consumer,1110.5,Standard Class
+898101,CA-2013-164574,Consumer,732.156,Standard Class
+898110,CA-2013-166282,Consumer,158.256,Standard Class
+898119,CA-2013-166485,Consumer,16.496,Standard Class
+898128,CA-2013-168536,Consumer,66.3,Standard Class
+898137,CA-2013-169103,Consumer,1466.32,Standard Class
+898146,CA-2014-100426,Consumer,12.48,Standard Class
+898155,CA-2014-100622,Consumer,1030.742,Standard Class
+898164,CA-2014-100902,Consumer,699.4,Standard Class
+898173,CA-2014-101042,Consumer,843.84,Standard Class
+898182,CA-2014-102204,Consumer,3740.51,Standard Class
+898191,CA-2014-102610,Consumer,248.396,Standard Class
+898200,CA-2014-102736,Consumer,177.08,Standard Class
+898209,CA-2014-103499,Consumer,209.568,Standard Class
+898218,CA-2014-104731,Consumer,951.98,Standard Class
+898227,CA-2014-106537,Consumer,20.736,Standard Class
+898236,CA-2014-108035,Consumer,491.888,Standard Class
+898245,CA-2014-108112,Consumer,559.2,Standard Class
+898254,CA-2014-109183,Consumer,649,Standard Class
+898263,CA-2014-110926,Consumer,25.06,Standard Class
+898272,CA-2014-114412,Consumer,15.552,Standard Class
+898281,CA-2014-114636,Consumer,192.16,Standard Class
+898290,CA-2014-116855,Consumer,504.9,Standard Class
+898299,CA-2014-116939,Consumer,177.55,Standard Class
+898308,CA-2014-117079,Consumer,863.88,Standard Class
+898317,CA-2014-117198,Consumer,659.9,Standard Class
+898326,CA-2014-118402,Consumer,243.92,Standard Class
+898335,CA-2014-119004,Consumer,105.408,Standard Class
+898344,CA-2014-119305,Consumer,173.8,Standard Class
+898353,CA-2014-119669,Consumer,5.67,Standard Class
+898362,CA-2014-120894,Consumer,28.08,Standard Class
+898371,CA-2014-121804,Consumer,72.8,Standard Class
+898380,CA-2014-122056,Consumer,181.86,Standard Class
+898389,CA-2014-123351,Consumer,80.48,Standard Class
+898398,CA-2014-124296,Consumer,712.85,Standard Class
+898407,CA-2014-124765,Consumer,723.92,Standard Class
+898416,CA-2014-126354,Consumer,119.178,Standard Class
+898425,CA-2014-126914,Consumer,776.08,Standard Class
+898434,CA-2014-127306,Consumer,175.086,Standard Class
+898443,CA-2014-128363,Consumer,2382.926,Standard Class
+898452,CA-2014-128755,Consumer,629.86,Standard Class
+898461,CA-2014-130309,Consumer,544.38,Standard Class
+898470,CA-2014-130904,Consumer,22.744,Standard Class
+898479,CA-2014-132185,Consumer,52.344,Standard Class
+898488,CA-2014-133501,Consumer,5.184,Standard Class
+898497,CA-2014-133641,Consumer,48.69,Standard Class
+898506,CA-2014-133928,Consumer,4.572,Standard Class
+898515,CA-2014-135587,Consumer,372.64,Standard Class
+898524,CA-2014-137631,Consumer,751.984,Standard Class
+898533,CA-2014-138975,Consumer,2361.52,Standard Class
+898542,CA-2014-139493,Consumer,15.92,Standard Class
+898551,CA-2014-139948,Consumer,7.904,Standard Class
+898560,CA-2014-140627,Consumer,303.32,Standard Class
+898569,CA-2014-140872,Consumer,1111.698,Standard Class
+898578,CA-2014-142090,Consumer,2165.658,Standard Class
+898587,CA-2014-143861,Consumer,17.088,Standard Class
+898596,CA-2014-144365,Consumer,11.68,Standard Class
+898605,CA-2014-145275,Consumer,14.94,Standard Class
+898614,CA-2014-145737,Consumer,163.96,Standard Class
+898623,CA-2014-146136,Consumer,24.448,Standard Class
+898632,CA-2014-146192,Consumer,675.06,Standard Class
+898641,CA-2014-146983,Consumer,1577.94,Standard Class
+898650,CA-2014-147228,Consumer,458.984,Standard Class
+898659,CA-2014-148999,Consumer,419.136,Standard Class
+898668,CA-2014-149853,Consumer,33.472,Standard Class
+898677,CA-2014-150910,Consumer,1090.348,Standard Class
+898686,CA-2014-152786,Consumer,40.41,Standard Class
+898695,CA-2014-152968,Consumer,23.08,Standard Class
+898704,CA-2014-154088,Consumer,26.72,Standard Class
+898713,CA-2014-158386,Consumer,124.75,Standard Class
+898722,CA-2014-158743,Consumer,199.17,Standard Class
+898731,CA-2014-159954,Consumer,2.78,Standard Class
+898740,CA-2014-161970,Consumer,30.9,Standard Class
+898749,CA-2014-162173,Consumer,608.43,Standard Class
+898758,CA-2014-165687,Consumer,35.04,Standard Class
+898767,CA-2014-165715,Consumer,32.776,Standard Class
+898776,CA-2014-167871,Consumer,47.328,Standard Class
+898785,CA-2014-169005,Consumer,5.56,Standard Class
+898794,US-2011-115196,Consumer,1299.99,Standard Class
+898803,US-2011-117170,Consumer,52.608,Standard Class
+898812,US-2011-147627,Consumer,1859.4,Standard Class
+898821,US-2011-150574,Consumer,252.612,Standard Class
+898830,US-2011-155544,Consumer,310.528,Standard Class
+898839,US-2011-156559,Consumer,638.82,Standard Class
+898848,US-2011-158057,Consumer,59.109,Standard Class
+898857,US-2011-165659,Consumer,904.13,Standard Class
+898866,US-2011-167633,Consumer,15.552,Standard Class
+898875,US-2012-108966,Consumer,979.9455,Standard Class
+898884,US-2012-120572,Consumer,12.828,Standard Class
+898893,US-2012-123960,Consumer,207.82,Standard Class
+898902,US-2012-129553,Consumer,29.97,Standard Class
+898911,US-2012-134026,Consumer,1001.76,Standard Class
+898920,US-2012-145436,Consumer,551.264,Standard Class
+898929,US-2012-164357,Consumer,13.12,Standard Class
+898938,US-2012-168732,Consumer,129.64,Standard Class
+898947,US-2012-168935,Consumer,459.4335,Standard Class
+898956,US-2013-121013,Consumer,1678,Standard Class
+898965,US-2013-132857,Consumer,6.672,Standard Class
+898974,US-2013-135923,Consumer,530.272,Standard Class
+898983,US-2013-137295,Consumer,187.228,Standard Class
+898992,US-2013-147991,Consumer,16.72,Standard Class
+899001,US-2013-164588,Consumer,12.84,Standard Class
+899010,US-2013-169369,Consumer,299.07,Standard Class
+899019,US-2014-102904,Consumer,239.92,Standard Class
+899028,US-2014-105935,Consumer,3002.65,Standard Class
+899037,US-2014-117450,Consumer,107.552,Standard Class
+899046,US-2014-126179,Consumer,311.96,Standard Class
+899055,US-2014-134642,Consumer,428.704,Standard Class
+899064,US-2014-135986,Consumer,536.36,Standard Class
+899073,US-2014-136189,Consumer,82.38,Standard Class
+899082,US-2014-146822,Consumer,49.12,Standard Class
+899091,US-2014-146878,Consumer,12.294,Standard Class
+899100,US-2014-149510,Consumer,98.446,Standard Class
+899109,US-2014-152842,Consumer,242.352,Standard Class
+899118,US-2014-152898,Consumer,67.9,Standard Class
+899127,US-2014-165953,Consumer,71.096,Standard Class
+899136,US-2014-166233,Consumer,24,Standard Class
+899145,US-2014-168690,Consumer,2.808,Standard Class
+899154,CA-2011-103317,Corporate,242.546,First Class
+899163,CA-2011-103989,Corporate,590.762,First Class
+899172,CA-2011-106054,Corporate,12.78,First Class
+899181,CA-2011-111934,Corporate,47.32,First Class
+899190,CA-2011-124688,Corporate,1812.01,First Class
+899199,CA-2011-125682,Corporate,9.96,First Class
+899208,CA-2011-131905,Corporate,321.56,First Class
+899217,CA-2011-163293,Corporate,116.85,First Class
+899226,CA-2011-169684,Corporate,426.942,First Class
+899235,CA-2012-104038,Corporate,176.63,First Class
+899244,CA-2012-121720,Corporate,3165.744,First Class
+899253,CA-2012-133396,Corporate,64.68,First Class
+899262,CA-2012-140718,Corporate,246.364,First Class
+899271,CA-2012-154746,Corporate,860.07,First Class
+899280,CA-2012-156734,Corporate,670.001,First Class
+899289,CA-2012-158323,Corporate,17.088,First Class
+899298,CA-2013-112676,Corporate,14.352,First Class
+899307,CA-2013-127208,Corporate,224.9,First Class
+899316,CA-2013-133711,Corporate,3236.41,First Class
+899325,CA-2013-153318,Corporate,783.96,First Class
+899334,CA-2013-160598,Corporate,31.008,First Class
+899343,CA-2013-162901,Corporate,31.4,First Class
+899352,CA-2014-113481,Corporate,740.214,First Class
+899361,CA-2014-115882,Corporate,1017.136,First Class
+899370,CA-2014-117695,Corporate,13.76,First Class
+899379,CA-2014-122707,Corporate,503.22,First Class
+899388,CA-2014-123687,Corporate,234.2,First Class
+899397,CA-2014-124828,Corporate,9.552,First Class
+899406,CA-2014-129028,Corporate,127.95,First Class
+899415,CA-2014-134810,Corporate,272.232,First Class
+899424,CA-2014-147760,Corporate,1883.724,First Class
+899433,CA-2014-155698,Corporate,668.54,First Class
+899442,CA-2014-159464,Corporate,524.85,First Class
+899451,CA-2014-161851,Corporate,15.57,First Class
+899460,US-2012-131842,Corporate,97.424,First Class
+899469,US-2013-101616,Corporate,87.28,First Class
+899478,US-2013-140809,Corporate,56.45,First Class
+899487,US-2013-153815,Corporate,368.432,First Class
+899496,US-2014-128951,Corporate,1065.84,First Class
+899505,US-2014-162208,Corporate,2.896,First Class
+899514,CA-2011-158771,Corporate,158.71,Same Day
+899523,CA-2013-130820,Corporate,630.024,Same Day
+899532,CA-2014-161046,Corporate,839.25,Same Day
+899541,US-2012-130519,Corporate,111.904,Same Day
+899550,US-2014-168116,Corporate,8167.42,Same Day
+899559,CA-2011-101560,Corporate,542.34,Second Class
+899568,CA-2011-102988,Corporate,4251.92,Second Class
+899577,CA-2011-110408,Corporate,2216.8,Second Class
+899586,CA-2011-114790,Corporate,782.63,Second Class
+899595,CA-2011-120432,Corporate,25.5,Second Class
+899604,CA-2011-121286,Corporate,66.616,Second Class
+899613,CA-2011-129819,Corporate,12.39,Second Class
+899622,CA-2011-153913,Corporate,1015.816,Second Class
+899631,CA-2011-162775,Corporate,1287.26,Second Class
+899640,CA-2011-164910,Corporate,7.872,Second Class
+899649,CA-2012-109470,Corporate,596.48,Second Class
+899658,CA-2012-109708,Corporate,467.04,Second Class
+899667,CA-2012-116750,Corporate,12.158,Second Class
+899676,CA-2012-119592,Corporate,3.76,Second Class
+899685,CA-2012-142202,Corporate,717.12,Second Class
+899694,CA-2012-161445,Corporate,140.736,Second Class
+899703,CA-2012-163237,Corporate,520.03,Second Class
+899712,CA-2012-166604,Corporate,17.94,Second Class
+899721,CA-2012-168004,Corporate,392.94,Second Class
+899730,CA-2012-169677,Corporate,9.82,Second Class
+899739,CA-2013-109407,Corporate,31.36,Second Class
+899748,CA-2013-112697,Corporate,1410.066,Second Class
+899757,CA-2013-113236,Corporate,232.624,Second Class
+899766,CA-2013-122518,Corporate,10.08,Second Class
+899775,CA-2013-134474,Corporate,255.904,Second Class
+899784,CA-2013-143805,Corporate,2145.25,Second Class
+899793,CA-2013-157161,Corporate,199.18,Second Class
+899802,CA-2013-162236,Corporate,1106.924,Second Class
+899811,CA-2013-162747,Corporate,86.45,Second Class
+899820,CA-2013-163167,Corporate,2673.69,Second Class
+899829,CA-2014-103009,Corporate,26.4,Second Class
+899838,CA-2014-104864,Corporate,552.856,Second Class
+899847,CA-2014-115070,Corporate,16.739,Second Class
+899856,CA-2014-116113,Corporate,10.16,Second Class
+899865,CA-2014-122693,Corporate,1245.86,Second Class
+899874,CA-2014-128300,Corporate,406.94,Second Class
+899883,CA-2014-133263,Corporate,3098.61,Second Class
+899892,CA-2014-134495,Corporate,269.4,Second Class
+899901,CA-2014-134649,Corporate,22.63,Second Class
+899910,CA-2014-143567,Corporate,3291.07,Second Class
+899919,CA-2014-145702,Corporate,342.24,Second Class
+899928,CA-2014-153339,Corporate,15.992,Second Class
+899937,CA-2014-153654,Corporate,19.008,Second Class
+899946,CA-2014-158561,Corporate,1158.12,Second Class
+899955,US-2012-140851,Corporate,38.88,Second Class
+899964,US-2012-149629,Corporate,231.92,Second Class
+899973,US-2013-138408,Corporate,1319.96,Second Class
+899982,US-2013-161844,Corporate,82.92,Second Class
+899991,US-2014-109610,Corporate,701.96,Second Class
+900000,US-2014-162670,Corporate,1152.87,Second Class
+900009,CA-2011-100916,Corporate,788.86,Standard Class
+900018,CA-2011-101770,Corporate,1.869,Standard Class
+900027,CA-2011-102274,Corporate,865.5,Standard Class
+900036,CA-2011-102673,Corporate,1044.44,Standard Class
+900045,CA-2011-103807,Corporate,21.19,Standard Class
+900054,CA-2011-106810,Corporate,310.88,Standard Class
+900063,CA-2011-107811,Corporate,661.504,Standard Class
+900072,CA-2011-111500,Corporate,484.79,Standard Class
+900081,CA-2011-112718,Corporate,1.167,Standard Class
+900090,CA-2011-114314,Corporate,16.23,Standard Class
+900099,CA-2011-114321,Corporate,1417.35,Standard Class
+900108,CA-2011-115084,Corporate,605.34,Standard Class
+900117,CA-2011-117345,Corporate,202.896,Standard Class
+900126,CA-2011-117639,Corporate,3333.9,Standard Class
+900135,CA-2011-125136,Corporate,106.944,Standard Class
+900144,CA-2011-128846,Corporate,752.92,Standard Class
+900153,CA-2011-129091,Corporate,1022.61,Standard Class
+900162,CA-2011-136336,Corporate,828.84,Standard Class
+900171,CA-2011-137911,Corporate,88.768,Standard Class
+900180,CA-2011-138527,Corporate,192.424,Standard Class
+900189,CA-2011-146885,Corporate,13.62,Standard Class
+900198,CA-2011-148425,Corporate,6.642,Standard Class
+900207,CA-2011-149020,Corporate,54.83,Standard Class
+900216,CA-2011-149538,Corporate,364.93,Standard Class
+900225,CA-2011-151953,Corporate,2.816,Standard Class
+900234,CA-2011-151967,Corporate,129.92,Standard Class
+900243,CA-2011-152562,Corporate,75.16,Standard Class
+900252,CA-2011-152849,Corporate,4.368,Standard Class
+900261,CA-2011-153087,Corporate,521.92,Standard Class
+900270,CA-2011-155208,Corporate,39.072,Standard Class
+900279,CA-2011-160276,Corporate,177.68,Standard Class
+900288,CA-2011-160773,Corporate,581.104,Standard Class
+900297,CA-2011-163223,Corporate,3769.56,Standard Class
+900306,CA-2011-167850,Corporate,193.936,Standard Class
+900315,CA-2012-103793,Corporate,74.352,Standard Class
+900324,CA-2012-103870,Corporate,284.44,Standard Class
+900333,CA-2012-104241,Corporate,192.22,Standard Class
+900342,CA-2012-104941,Corporate,976.29,Standard Class
+900351,CA-2012-105571,Corporate,1361.631,Standard Class
+900360,CA-2012-106187,Corporate,268.4,Standard Class
+900369,CA-2012-108259,Corporate,81.135,Standard Class
+900378,CA-2012-113628,Corporate,792.508,Standard Class
+900387,CA-2012-120845,Corporate,22.549,Standard Class
+900396,CA-2012-121552,Corporate,19.56,Standard Class
+900405,CA-2012-122168,Corporate,53.28,Standard Class
+900414,CA-2012-125066,Corporate,62.46,Standard Class
+900423,CA-2012-128083,Corporate,45.976,Standard Class
+900432,CA-2012-131422,Corporate,207,Standard Class
+900441,CA-2012-137106,Corporate,79.96,Standard Class
+900450,CA-2012-137281,Corporate,6.48,Standard Class
+900459,CA-2012-147011,Corporate,13.632,Standard Class
+900468,CA-2012-147102,Corporate,66.36,Standard Class
+900477,CA-2012-147529,Corporate,324.11,Standard Class
+900486,CA-2012-149342,Corporate,896.31,Standard Class
+900495,CA-2012-149734,Corporate,200.984,Standard Class
+900504,CA-2012-150308,Corporate,246.168,Standard Class
+900513,CA-2012-151624,Corporate,21.36,Standard Class
+900522,CA-2012-153038,Corporate,94.688,Standard Class
+900531,CA-2012-154291,Corporate,457.04,Standard Class
+900540,CA-2012-154921,Corporate,186.69,Standard Class
+900549,CA-2012-155453,Corporate,4.608,Standard Class
+900558,CA-2012-160696,Corporate,7.24,Standard Class
+900567,CA-2012-161998,Corporate,277.632,Standard Class
+900576,CA-2012-162201,Corporate,937.608,Standard Class
+900585,CA-2012-164427,Corporate,239.7,Standard Class
+900594,CA-2012-166975,Corporate,692.472,Standard Class
+900603,CA-2012-169572,Corporate,46.62,Standard Class
+900612,CA-2013-106558,Corporate,316,Standard Class
+900621,CA-2013-109743,Corporate,104.712,Standard Class
+900630,CA-2013-109911,Corporate,10.96,Standard Class
+900639,CA-2013-112277,Corporate,519.68,Standard Class
+900648,CA-2013-113831,Corporate,4317.3,Standard Class
+900657,CA-2013-113845,Corporate,574.056,Standard Class
+900666,CA-2013-114713,Corporate,45.584,Standard Class
+900675,CA-2013-115504,Corporate,12.96,Standard Class
+900684,CA-2013-116764,Corporate,9.216,Standard Class
+900693,CA-2013-118073,Corporate,562.2925,Standard Class
+900702,CA-2013-118178,Corporate,31.086,Standard Class
+900711,CA-2013-119074,Corporate,92.7,Standard Class
+900720,CA-2013-123617,Corporate,7.434,Standard Class
+900729,CA-2013-123946,Corporate,1159.06,Standard Class
+900738,CA-2013-124254,Corporate,191.808,Standard Class
+900747,CA-2013-125017,Corporate,132.224,Standard Class
+900756,CA-2013-130001,Corporate,36.24,Standard Class
+900765,CA-2013-134516,Corporate,115.48,Standard Class
+900774,CA-2013-138695,Corporate,452.464,Standard Class
+900783,CA-2013-139689,Corporate,40.896,Standard Class
+900792,CA-2013-140928,Corporate,383.438,Standard Class
+900801,CA-2013-142097,Corporate,342.76,Standard Class
+900810,CA-2013-145709,Corporate,64.248,Standard Class
+900819,CA-2013-157763,Corporate,140.81,Standard Class
+900828,CA-2013-165316,Corporate,324.387,Standard Class
+900837,CA-2013-165827,Corporate,50.496,Standard Class
+900846,CA-2013-166380,Corporate,138.53,Standard Class
+900855,CA-2014-104318,Corporate,20.768,Standard Class
+900864,CA-2014-107167,Corporate,1347.52,Standard Class
+900873,CA-2014-108322,Corporate,26.056,Standard Class
+900882,CA-2014-110310,Corporate,68.967,Standard Class
+900891,CA-2014-119284,Corporate,2942.784,Standard Class
+900900,CA-2014-125745,Corporate,19.52,Standard Class
+900909,CA-2014-126046,Corporate,12.39,Standard Class
+900918,CA-2014-126382,Corporate,35.168,Standard Class
+900927,CA-2014-127803,Corporate,26.16,Standard Class
+900936,CA-2014-128769,Corporate,81.568,Standard Class
+900945,CA-2014-136826,Corporate,14.016,Standard Class
+900954,CA-2014-139619,Corporate,95.616,Standard Class
+900963,CA-2014-141614,Corporate,20.736,Standard Class
+900972,CA-2014-147333,Corporate,204.55,Standard Class
+900981,CA-2014-147361,Corporate,685.26,Standard Class
+900990,CA-2014-148810,Corporate,287.424,Standard Class
+900999,CA-2014-151855,Corporate,39.252,Standard Class
+901008,CA-2014-154816,Corporate,5.78,Standard Class
+901017,CA-2014-155824,Corporate,61.876,Standard Class
+901026,CA-2014-156272,Corporate,64.384,Standard Class
+901035,CA-2014-157854,Corporate,2747.25,Standard Class
+901044,CA-2014-158407,Corporate,103.968,Standard Class
+901053,CA-2014-159100,Corporate,1893.786,Standard Class
+901062,CA-2014-160017,Corporate,10.368,Standard Class
+901071,CA-2014-160724,Corporate,34.5,Standard Class
+901080,CA-2014-161130,Corporate,361.376,Standard Class
+901089,CA-2014-161592,Corporate,8.1,Standard Class
+901098,CA-2014-163629,Corporate,286.09,Standard Class
+901107,CA-2014-164756,Corporate,997.83,Standard Class
+901116,CA-2014-164917,Corporate,47.96,Standard Class
+901125,CA-2014-165029,Corporate,12.84,Standard Class
+901134,CA-2014-168102,Corporate,113.568,Standard Class
+901143,CA-2014-168389,Corporate,873.811,Standard Class
+901152,CA-2014-169012,Corporate,41.91,Standard Class
+901161,US-2011-107405,Corporate,16.272,Standard Class
+901170,US-2011-109162,Corporate,170.352,Standard Class
+901179,US-2011-118997,Corporate,1215.92,Standard Class
+901188,US-2011-143581,Corporate,344.91,Standard Class
+901197,US-2011-147774,Corporate,67.194,Standard Class
+901206,US-2011-156216,Corporate,18.648,Standard Class
+901215,US-2011-157231,Corporate,115.36,Standard Class
+901224,US-2011-164763,Corporate,103.5,Standard Class
+901233,US-2012-112508,Corporate,6.992,Standard Class
+901242,US-2012-136476,Corporate,157.794,Standard Class
+901251,US-2012-148817,Corporate,125.64,Standard Class
+901260,US-2012-158911,Corporate,16.712,Standard Class
+901269,US-2013-102232,Corporate,197.05,Standard Class
+901278,US-2013-144393,Corporate,17.616,Standard Class
+901287,US-2013-148901,Corporate,191.018,Standard Class
+901296,US-2013-150357,Corporate,24.703,Standard Class
+901305,US-2013-150567,Corporate,29.97,Standard Class
+901314,US-2013-159415,Corporate,79.12,Standard Class
+901323,US-2013-164630,Corporate,959.968,Standard Class
+901332,US-2014-115252,Corporate,30.336,Standard Class
+901341,US-2014-126060,Corporate,198.272,Standard Class
+901350,US-2014-128118,Corporate,76.521,Standard Class
+901359,US-2014-135503,Corporate,14.76,Standard Class
+901368,US-2014-166611,Corporate,68.742,Standard Class
+901377,CA-2011-132010,Home Office,389.74,First Class
+901386,CA-2011-136567,Home Office,2884.37,First Class
+901395,CA-2011-140165,Home Office,405.456,First Class
+901404,CA-2013-149454,Home Office,10.44,First Class
+901413,CA-2013-159142,Home Office,177.78,First Class
+901422,CA-2013-162159,Home Office,121.78,First Class
+901431,CA-2014-121419,Home Office,771.8,First Class
+901440,CA-2014-132213,Home Office,109.968,First Class
+901449,CA-2014-144456,Home Office,220.056,First Class
+901458,CA-2014-155292,Home Office,204.98,First Class
+901467,US-2013-158309,Home Office,3.744,First Class
+901476,US-2014-162558,Home Office,2437.672,First Class
+901485,CA-2011-165806,Home Office,259.29,Same Day
+901494,CA-2012-100769,Home Office,255.968,Same Day
+901503,CA-2013-136126,Home Office,261.1,Same Day
+901512,CA-2014-133095,Home Office,117.62,Same Day
+901521,CA-2014-149146,Home Office,7.968,Same Day
+901530,US-2013-108504,Home Office,2075.51,Same Day
+901539,CA-2011-157609,Home Office,471.92,Second Class
+901548,CA-2011-158274,Home Office,682.91,Second Class
+901557,CA-2012-115847,Home Office,61.96,Second Class
+901566,CA-2012-133977,Home Office,3.444,Second Class
+901575,CA-2012-134992,Home Office,80.38,Second Class
+901584,CA-2012-140830,Home Office,89.36,Second Class
+901593,CA-2012-153549,Home Office,1166.92,Second Class
+901602,CA-2013-109344,Home Office,1127.976,Second Class
+901611,CA-2013-127985,Home Office,7.04,Second Class
+901620,CA-2013-140977,Home Office,91.475,Second Class
+901629,CA-2013-149111,Home Office,55.416,Second Class
+901638,CA-2013-164350,Home Office,67.56,Second Class
+901647,CA-2014-114055,Home Office,819.28,Second Class
+901656,CA-2014-141446,Home Office,18,Second Class
+901665,CA-2014-142671,Home Office,11.52,Second Class
+901674,CA-2014-148922,Home Office,684.78,Second Class
+901683,CA-2014-157931,Home Office,830.24,Second Class
+901692,CA-2014-160899,Home Office,477.51,Second Class
+901701,US-2012-113327,Home Office,352.168,Second Class
+901710,US-2013-135209,Home Office,62.752,Second Class
+901719,US-2013-168620,Home Office,823.61,Second Class
+901728,US-2014-148768,Home Office,71.976,Second Class
+901737,US-2014-159205,Home Office,732.93,Second Class
+901746,CA-2011-100293,Home Office,91.056,Standard Class
+901755,CA-2011-108707,Home Office,10.368,Standard Class
+901764,CA-2011-120670,Home Office,799.92,Standard Class
+901773,CA-2011-122217,Home Office,111.15,Standard Class
+901782,CA-2011-133634,Home Office,47.79,Standard Class
+901791,CA-2011-134621,Home Office,18.24,Standard Class
+901800,CA-2011-145317,Home Office,23661.228,Standard Class
+901809,CA-2011-148285,Home Office,22.32,Standard Class
+901818,CA-2011-156244,Home Office,457.744,Standard Class
+901827,CA-2011-167199,Home Office,4374.88,Standard Class
+901836,CA-2012-102260,Home Office,763.508,Standard Class
+901845,CA-2012-103135,Home Office,525.95,Standard Class
+901854,CA-2012-103772,Home Office,260.31,Standard Class
+901863,CA-2012-110947,Home Office,113.1,Standard Class
+901872,CA-2012-115091,Home Office,75.04,Standard Class
+901881,CA-2012-125696,Home Office,7.38,Standard Class
+901890,CA-2012-128958,Home Office,13.12,Standard Class
+901899,CA-2012-135510,Home Office,67.96,Standard Class
+901908,CA-2012-141754,Home Office,11.696,Standard Class
+901917,CA-2012-145324,Home Office,39.96,Standard Class
+901926,CA-2012-160059,Home Office,6.24,Standard Class
+901935,CA-2012-163923,Home Office,151.96,Standard Class
+901944,CA-2013-100307,Home Office,19.44,Standard Class
+901953,CA-2013-105662,Home Office,270.728,Standard Class
+901962,CA-2013-105753,Home Office,61.1,Standard Class
+901971,CA-2013-110254,Home Office,158.81,Standard Class
+901980,CA-2013-118934,Home Office,16.218,Standard Class
+901989,CA-2013-121020,Home Office,239.976,Standard Class
+901998,CA-2013-123414,Home Office,37.264,Standard Class
+902007,CA-2013-123533,Home Office,392.832,Standard Class
+902016,CA-2013-131968,Home Office,681.432,Standard Class
+902025,CA-2013-134789,Home Office,215.84,Standard Class
+902034,CA-2013-136322,Home Office,74.32,Standard Class
+902043,CA-2013-139269,Home Office,1311.97,Standard Class
+902052,CA-2013-140571,Home Office,365.44,Standard Class
+902061,CA-2013-146171,Home Office,558.24,Standard Class
+902070,CA-2013-151155,Home Office,34.34,Standard Class
+902079,CA-2013-154403,Home Office,4.98,Standard Class
+902088,CA-2013-155439,Home Office,25.92,Standard Class
+902097,CA-2013-159212,Home Office,273.59,Standard Class
+902106,CA-2013-159891,Home Office,1396.35,Standard Class
+902115,CA-2013-165470,Home Office,5.08,Standard Class
+902124,CA-2013-169026,Home Office,23.34,Standard Class
+902133,CA-2014-100412,Home Office,141.96,Standard Class
+902142,CA-2014-102554,Home Office,3.76,Standard Class
+902151,CA-2014-110212,Home Office,48.9,Standard Class
+902160,CA-2014-113558,Home Office,729.648,Standard Class
+902169,CA-2014-120705,Home Office,147.184,Standard Class
+902178,CA-2014-124597,Home Office,32.088,Standard Class
+902187,CA-2014-124898,Home Office,184.66,Standard Class
+902196,CA-2014-125752,Home Office,41.424,Standard Class
+902205,CA-2014-127516,Home Office,64.784,Standard Class
+902214,CA-2014-128475,Home Office,71.98,Standard Class
+902223,CA-2014-129490,Home Office,419.136,Standard Class
+902232,CA-2014-129910,Home Office,59.76,Standard Class
+902241,CA-2014-134096,Home Office,399.53,Standard Class
+902250,CA-2014-139787,Home Office,35.4,Standard Class
+902259,CA-2014-146535,Home Office,1446.84,Standard Class
+902268,CA-2014-148166,Home Office,17.856,Standard Class
+902277,CA-2014-148404,Home Office,1027.21,Standard Class
+902286,CA-2014-148474,Home Office,544.14,Standard Class
+902295,CA-2014-150931,Home Office,33.74,Standard Class
+902304,CA-2014-151211,Home Office,201.09,Standard Class
+902313,CA-2014-154123,Home Office,27.58,Standard Class
+902322,CA-2014-155089,Home Office,45.66,Standard Class
+902331,CA-2014-159135,Home Office,4.3,Standard Class
+902340,CA-2014-159667,Home Office,691.144,Standard Class
+902349,CA-2014-160423,Home Office,383.992,Standard Class
+902358,CA-2014-161088,Home Office,29.84,Standard Class
+902367,CA-2014-162033,Home Office,57.01,Standard Class
+902376,CA-2014-165904,Home Office,235.44,Standard Class
+902385,US-2011-125521,Home Office,1139.92,Standard Class
+902394,US-2011-138835,Home Office,9.64,Standard Class
+902403,US-2011-155502,Home Office,944.61,Standard Class
+902412,US-2011-155817,Home Office,67.76,Standard Class
+902421,US-2013-108637,Home Office,334.2,Standard Class
+902430,US-2013-109260,Home Office,431.976,Standard Class
+902439,US-2013-123750,Home Office,895.06,Standard Class
+902448,US-2013-139262,Home Office,471.078,Standard Class
+902457,US-2013-146570,Home Office,612.14,Standard Class
+902466,US-2013-155404,Home Office,13.28,Standard Class
+902475,US-2014-100930,Home Office,1735.8505,Standard Class
+902484,US-2014-108315,Home Office,225.546,Standard Class
+902493,US-2014-114356,Home Office,35.96,Standard Class
+902502,US-2014-120390,Home Office,1633.188,Standard Class
+902511,US-2014-129224,Home Office,4.608,Standard Class
+902520,US-2014-132031,Home Office,513.496,Standard Class
+902529,US-2014-132297,Home Office,598.31,Standard Class
+902538,US-2014-132675,Home Office,148.16,Standard Class
+902547,US-2014-156083,Home Office,9.664,Standard Class
