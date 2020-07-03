@@ -8,3 +8,5 @@ About the word document:-
 
 Go through my work and reach out me if you want to talk about it. 
 I would be happy to help in any way that I can.
+
+Disclaimer- I realised there were a few errors in the 5th and 6th dataset. I am still working on it. It will be uploaded soon.
