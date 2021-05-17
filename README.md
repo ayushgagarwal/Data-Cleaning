@@ -1,5 +1,5 @@
 # Data-Cleaning
-This repository consists of a number of data sets that have been cleaned by me.
+This repository consists of a number of data sets that have been cleaned by me. All of it is done in Python!
 
 About the word document:-
 - It contains a list of all the commands that I have used in order to clean the data sets. 
