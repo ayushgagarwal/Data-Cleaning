@@ -1,4 +1,4 @@
-# Data-Cleaning
+# Data Cleaning
 This repository consists of a number of data sets that have been cleaned by me. All of it is done in Python!
 
 About the word document:-
